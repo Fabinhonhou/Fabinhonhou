@@ -42,7 +42,7 @@
 --->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabinhonhou&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabinhonhou&theme=tokyodarkness&hide_border=true" />
 </div>
 
 ---
